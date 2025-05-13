@@ -1,20 +1,12 @@
-# 🎨 Heuler Magazine – Ausgabe #138
-
-**Designed by:** Manasa Vighneshwar Marigoli (with contributions from Steffen) 
-**Role:** Layout Designer (ASTA, University of Rostock)  
-**Tools Used:** Adobe InDesign
-
----
-
-## 📘 Overview
+#  🎨 Heuler Magazine – Ausgabe #138
 
 This is the 138th issue of **Heuler**, the official student magazine of the University of Rostock, celebrating **30 years** of student journalism. As a layout designer, I was responsible for the visual composition of this 52-page edition, ensuring consistency in typography, visual hierarchy, and structure from cover to credits.
 
-> **Theme:** Innovation & Identity  
-> **Published:** Summer 2025  
-> **Language:** German  
-> **Page Count:** 52  
-> **Format:** Print-Ready PDF
+**Theme:** Innovation & Identity  
+**Published:** Summer 2025  
+**Language:** German  
+**Page Count:** 52  
+**Format:** Print-Ready PDF
 
 ---
 
@@ -38,8 +30,7 @@ This is the 138th issue of **Heuler**, the official student magazine of the Univ
 ---
 
 ## 🔗 View the Magazine
-Download zip file or clone the repository and open the file locally
-Note: GitHub does not preview PDFs in-browser. Click the link to download or open it manually.
+📄 Download zip file or clone the repository and open the file locally
 
 ---
 
